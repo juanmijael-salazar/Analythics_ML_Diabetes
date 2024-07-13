@@ -1,7 +1,7 @@
 # Analythics_ML_Diabetes
 Análisis y Machine Learning en pacientes con Diabetes (Árboles de decisión y Clustering)
 
-Se concluye de manera práctica por el análisis de ambas partes que las personas con las siguientes características son más propensas a padecer diabetes: 
+Se concluye de manera práctica con el análisis de ambas partes (datasets) que las personas con las siguientes características son más propensas a padecer diabetes: 
 
 * Polyuria (Producción de orina de > 3 L por día). 
 
